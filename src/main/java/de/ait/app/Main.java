@@ -65,6 +65,7 @@ public class Main {
 
         CashWarrantRepository cashWarrantRepository = new
                 CashWarrantRepositoryTextFileImpl("files/cash.txt");
+
         CashWarrantService cashWarrantService = new
                 CashWarrantServiceImpl(cashWarrantRepository);
 

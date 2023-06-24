@@ -1,4 +1,4 @@
-package de.ait.repositories.deliveryOffGoods;
+package de.ait.repositories.DeliveryOffGoods;
 
 import de.ait.models.DeliveryOffGoods;
 import de.ait.models.Product;
