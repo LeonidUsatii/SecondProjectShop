@@ -1,7 +1,7 @@
 package de.ait.services.DeliveryOffGoods;
 
 import de.ait.models.*;
-import de.ait.repositories.deliveryOffGoods.DeliveryOffGoodsRepository;
+import de.ait.repositories.DeliveryOffGoods.DeliveryOffGoodsRepository;
 
 
 import java.util.List;

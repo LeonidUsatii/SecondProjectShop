@@ -1,7 +1,7 @@
 package de.ait.services.CashWarrant;
 
 import de.ait.models.CashWarrant;
-import de.ait.repositories.cashWarrant.CashWarrantRepository;
+import de.ait.repositories.CashWarrant.CashWarrantRepository;
 
 
 import java.util.List;

@@ -1,4 +1,4 @@
-package de.ait.repositories.cashWarrant;
+package de.ait.repositories.CashWarrant;
 
 import de.ait.models.CashWarrant;
 import de.ait.repositories.CrudRepository;
