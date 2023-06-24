@@ -1,7 +1,7 @@
 package de.ait.repositories.fakeImpl;
 
 import de.ait.models.DeliveryOffGoods;
-import de.ait.repositories.deliveryOffGoods.DeliveryOffGoodsRepository;
+import de.ait.repositories.DeliveryOffGoods.DeliveryOffGoodsRepository;
 
 
 import java.util.List;
